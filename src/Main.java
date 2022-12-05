@@ -9,6 +9,5 @@ class Main {
         System.out.println("количество бонусных милей ");
         System.out.println((ticket / miles) + " бонусных милей");
 
-        int bonus = 5_000;
     }
 }
